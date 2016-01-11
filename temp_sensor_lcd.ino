@@ -53,7 +53,7 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   // Print a message to the LCD.
-  //lcd.print("hello, David!");
+  //lcd.print("hello, world!");
   Serial.begin(9600);//baud rate for serial communication
 
 }
